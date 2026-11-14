@@ -1,1 +1,1 @@
-# converse
+this repo is used for code for my own trading bot
